@@ -1,8 +1,24 @@
-# hrs-guidebook
+# HRS Guidebook Test
+## It's going to change the world
 
-## Preview your site
-Run the local server with docsify serve. You can preview your site in your browser on http://localhost:3000.
+> An awesome guidebook.
 
-This was just to get something running ~ includes a coverpage, landing page, sidebar and a couple empty pages
+And this would just be the normal text. Ah yes, very good point.
 
-Following: https://docsify.js.org/#/quickstart
+- bullet point
+- another one
+
+Links are put in [these] leading somewhere
+
+> can create \
+> a bar \
+> with multiple \
+> of these ">"
+
+## change the world it did
+
+- good point
+- another good point
+
+[//]: # (reference links - this hides the text from preview)
+[these]: <https://docsify.js.org/#/more-pages>
